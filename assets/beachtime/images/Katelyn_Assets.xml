@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Katelyn_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownKatelyn instantie 10000" x="25" y="25" width="361" height="530" frameX="-75" frameY="-10" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10001" x="25" y="25" width="361" height="530" frameX="-75" frameY="-10" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10002" x="25" y="25" width="361" height="530" frameX="-75" frameY="-10" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10003" x="426" y="25" width="447" height="587" frameX="-21" frameY="0" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10004" x="426" y="25" width="447" height="587" frameX="-21" frameY="0" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10005" x="426" y="25" width="447" height="587" frameX="-21" frameY="0" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10006" x="913" y="25" width="484" height="599" frameX="0" frameY="-5" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10007" x="913" y="25" width="484" height="599" frameX="0" frameY="-5" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10008" x="913" y="25" width="484" height="599" frameX="0" frameY="-5" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10009" x="426" y="25" width="447" height="587" frameX="-21" frameY="0" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10010" x="426" y="25" width="447" height="587" frameX="-21" frameY="0" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10011" x="426" y="25" width="447" height="587" frameX="-21" frameY="0" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10012" x="25" y="25" width="361" height="530" frameX="-75" frameY="-10" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10013" x="25" y="25" width="361" height="530" frameX="-75" frameY="-10" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="DownKatelyn instantie 10014" x="25" y="25" width="361" height="530" frameX="-75" frameY="-10" frameWidth="484" frameHeight="604"/>
+	<SubTexture name="IdleKatelyn instantie 10000" x="1437" y="25" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10001" x="1437" y="25" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10002" x="1437" y="25" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10003" x="2055" y="25" width="536" height="615" frameX="-210" frameY="-160" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10004" x="2055" y="25" width="536" height="615" frameX="-210" frameY="-160" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10005" x="2631" y="25" width="746" height="760" frameX="0" frameY="-13" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10006" x="25" y="825" width="817" height="787" frameX="0" frameY="-13" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10007" x="882" y="825" width="778" height="791" frameX="-39" frameY="-9" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10008" x="882" y="825" width="778" height="791" frameX="-39" frameY="-9" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10009" x="1700" y="825" width="794" height="788" frameX="-43" frameY="-7" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10010" x="1700" y="825" width="794" height="788" frameX="-43" frameY="-7" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10011" x="1700" y="825" width="794" height="788" frameX="-43" frameY="-7" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10012" x="2534" y="825" width="791" height="793" frameX="-52" frameY="0" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10013" x="2534" y="825" width="791" height="793" frameX="-52" frameY="0" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10014" x="2534" y="825" width="791" height="793" frameX="-52" frameY="0" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10015" x="25" y="1658" width="778" height="791" frameX="-39" frameY="-9" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10016" x="25" y="1658" width="778" height="791" frameX="-39" frameY="-9" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10017" x="843" y="1658" width="817" height="787" frameX="0" frameY="-13" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10018" x="1700" y="1658" width="761" height="760" frameX="0" frameY="-13" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10019" x="2501" y="1658" width="561" height="615" frameX="-200" frameY="-160" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10020" x="2501" y="1658" width="561" height="615" frameX="-200" frameY="-160" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10021" x="3102" y="1658" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10022" x="25" y="2489" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10023" x="25" y="2489" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10024" x="643" y="2489" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10025" x="643" y="2489" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="IdleKatelyn instantie 10026" x="1437" y="25" width="578" height="623" frameX="-209" frameY="-154" frameWidth="843" frameHeight="800"/>
+	<SubTexture name="LeftKatelyn instantie 10000" x="1261" y="2489" width="359" height="525" frameX="-148" frameY="-34" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10001" x="1261" y="2489" width="359" height="525" frameX="-148" frameY="-34" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10002" x="1261" y="2489" width="359" height="525" frameX="-148" frameY="-34" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10003" x="1660" y="2489" width="554" height="626" frameX="-29" frameY="-18" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10004" x="1660" y="2489" width="554" height="626" frameX="-29" frameY="-18" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10005" x="1660" y="2489" width="554" height="626" frameX="-29" frameY="-18" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10006" x="2254" y="2489" width="595" height="658"/>
+	<SubTexture name="LeftKatelyn instantie 10007" x="2254" y="2489" width="595" height="658"/>
+	<SubTexture name="LeftKatelyn instantie 10008" x="2254" y="2489" width="595" height="658"/>
+	<SubTexture name="LeftKatelyn instantie 10009" x="1660" y="2489" width="554" height="626" frameX="-29" frameY="-18" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10010" x="1660" y="2489" width="554" height="626" frameX="-29" frameY="-18" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10011" x="1660" y="2489" width="554" height="626" frameX="-29" frameY="-18" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10012" x="1261" y="2489" width="359" height="525" frameX="-148" frameY="-34" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10013" x="1261" y="2489" width="359" height="525" frameX="-148" frameY="-34" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="LeftKatelyn instantie 10014" x="1261" y="2489" width="359" height="525" frameX="-148" frameY="-34" frameWidth="595" frameHeight="658"/>
+	<SubTexture name="RightKatelyn instantie 10000" x="2889" y="2489" width="362" height="551" frameX="-39" frameY="-31" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10001" x="2889" y="2489" width="362" height="551" frameX="-39" frameY="-31" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10002" x="2889" y="2489" width="362" height="551" frameX="-39" frameY="-31" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10003" x="3291" y="2489" width="432" height="592" frameX="-11" frameY="-8" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10004" x="3291" y="2489" width="432" height="592" frameX="-11" frameY="-8" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10005" x="3291" y="2489" width="432" height="592" frameX="-11" frameY="-8" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10006" x="25" y="3187" width="457" height="605"/>
+	<SubTexture name="RightKatelyn instantie 10007" x="25" y="3187" width="457" height="605"/>
+	<SubTexture name="RightKatelyn instantie 10008" x="25" y="3187" width="457" height="605"/>
+	<SubTexture name="RightKatelyn instantie 10009" x="3291" y="2489" width="432" height="592" frameX="-11" frameY="-8" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10010" x="3291" y="2489" width="432" height="592" frameX="-11" frameY="-8" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10011" x="3291" y="2489" width="432" height="592" frameX="-11" frameY="-8" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10012" x="2889" y="2489" width="362" height="551" frameX="-39" frameY="-31" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10013" x="2889" y="2489" width="362" height="551" frameX="-39" frameY="-31" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="RightKatelyn instantie 10014" x="2889" y="2489" width="362" height="551" frameX="-39" frameY="-31" frameWidth="457" frameHeight="605"/>
+	<SubTexture name="UpKatelyn instantie 10000" x="522" y="3187" width="344" height="495" frameX="-47" frameY="-46" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10001" x="522" y="3187" width="344" height="495" frameX="-47" frameY="-46" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10002" x="522" y="3187" width="344" height="495" frameX="-47" frameY="-46" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10003" x="906" y="3187" width="469" height="565" frameX="-4" frameY="-16" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10004" x="906" y="3187" width="469" height="565" frameX="-4" frameY="-16" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10005" x="906" y="3187" width="469" height="565" frameX="-4" frameY="-16" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10006" x="1415" y="3187" width="482" height="579" frameX="0" frameY="0" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10007" x="1415" y="3187" width="482" height="579" frameX="0" frameY="0" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10008" x="1415" y="3187" width="482" height="579" frameX="0" frameY="0" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10009" x="906" y="3187" width="469" height="565" frameX="-4" frameY="-16" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10010" x="906" y="3187" width="469" height="565" frameX="-4" frameY="-16" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10011" x="906" y="3187" width="469" height="565" frameX="-4" frameY="-16" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10012" x="522" y="3187" width="344" height="495" frameX="-47" frameY="-46" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10013" x="522" y="3187" width="344" height="495" frameX="-47" frameY="-46" frameWidth="482" frameHeight="581"/>
+	<SubTexture name="UpKatelyn instantie 10014" x="522" y="3187" width="344" height="495" frameX="-47" frameY="-46" frameWidth="482" frameHeight="581"/>
+</TextureAtlas>

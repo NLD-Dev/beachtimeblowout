@@ -1,0 +1,11 @@
+:noone:true:BF and GF are at the beach.
+:bf:false:Hey babe, I'm gonna go for a swim ok?
+:gf:false:Sure thing hun! I'll just sit over here and watch our things.
+:noone:true:Right before jumping in
+:katelyn_hey:true:Hey! Aren't you that rapper guy that beat the popular ex-rockstar?
+:bf:false:Beep! Boop skdoop!
+:katelyn_ahaha:false:Wait that's your actual name? Well I would call you that but I already have my own boyfriend haha.
+:bf:false:Baap.
+:katelyn_wow:false:Anyway, I'm Katelyn! Well since you're here, wanna sing together? 
+:bf:false:Bop beep bop!
+:katelyn_YAY:false:Great! Let's have some fun~
